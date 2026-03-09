@@ -1,2 +1,5 @@
 # Napredne-tehnike-programiranja
-Zadaci iz C++, NTP
+Ovaj repozitorij sadrži rješenja zadataka iz predmeta Napredne tehnike programiranja.  
+Folderi `sedmica1`, `sedmica2` … sadrže zadatke i rješenja po sedmicama.
+
+## Pregled sedmica 
