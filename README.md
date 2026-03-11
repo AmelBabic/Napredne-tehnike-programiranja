@@ -4,3 +4,4 @@ Folderi `sedmica1`, `sedmica2` … sadrže zadatke i rješenja po sedmicama.
 
 ## Pregled sedmica 
 Sedmica1 - 7 Zadataka (funkcije)
+Sedmica2 - Rekurzivne funkcije
