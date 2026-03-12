@@ -1,0 +1,1 @@
+Ovaj folder sadrzi rjesenja zadataka sa vjezbi 3, postavku zadatka za zadacu i rjesenje zadace.
