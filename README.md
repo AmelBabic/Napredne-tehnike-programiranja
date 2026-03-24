@@ -3,6 +3,7 @@ Ovaj repozitorij sadrži rješenja zadataka iz predmeta Napredne tehnike program
 Folderi `sedmica1`, `sedmica2` … sadrže zadatke i rješenja po sedmicama.
 
 ## Pregled sedmica 
-Sedmica1 - 7 Zadataka (funkcije)
-Sedmica2 - Rekurzivne funkcije
-Sedmica 3 - Rad sa nizovima karaktera
+Sedmica1 - 7 Zadataka (funkcije)<br>
+Sedmica2 - Rekurzivne funkcije<br>
+Sedmica 3 - Rad sa nizovima karaktera<br>
+Sedmica 4 - Strukture
